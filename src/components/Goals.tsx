@@ -8,7 +8,7 @@ export default function Goals() {
                 <div>
                     <iframe width="420" height="345" src="https://youtube.com/embed/m2kUuK-nAdw?si=N4WoGWbIEVEbEsNl" allowFullScreen></iframe>
                 </div>
-                <p className="text-xl md:text-2xl mb-8 font-light py-5">Voici un aperçu de notre projet. Débuté en 2024, le principe n'a pas changé et chaque jour nous avançons vers la version finale de l'application !</p>
+                <p className="text-xl md:text-2xl mb-8 font-light py-5">Voici un aperçu de notre projet. Débuté en 2024, le principe n&apos;a pas changé et chaque jour nous avançons vers la version finale de l&apos;application !</p>
             </div>
         </div>
     );
