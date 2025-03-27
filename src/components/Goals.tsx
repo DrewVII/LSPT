@@ -1,8 +1,5 @@
 'use-client';
 
-import styles from '@/styles/Goals.module.css';
-import Link from 'next/link';
-
 export default function Goals() {
     return (
         <div id='goals' className='full-page-section flex items-center justify-between px-8 md:px-16 lg:px-24'>

@@ -2,7 +2,6 @@ import Header from "@/components/Header";
 import Goals from "@/components/Goals";
 import Nous from "@/components/Nous";
 import Footer from "@/components/Footer";
-import Image from "next/image";
 import Link from 'next/link';
 
 export default function Home() {
